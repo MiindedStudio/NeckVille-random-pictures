@@ -1,4 +1,4 @@
-# NeckVille-random-legendary
+# NeckVille-random-pictures
 Script for the randomization of pictures of NeckVille
 
 ## Step to replay the random : 
